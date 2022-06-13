@@ -3,6 +3,7 @@ aria2 - The ultra fast download utility
 
 Disclaimer
 ----------
+This fork has been updated to allow 256 max connections per server
 This program comes with no warranty.
 You must use this program at your own risk.
 
